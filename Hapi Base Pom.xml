@@ -1,0 +1,34 @@
+Maven:ca.unh.hapi.fhir:hapi-fhir-base:5.4.0
+Maven:ca.unh.hapi.fhir:hapi-fhir-structures-r4:5.4.0
+Maven:ca.unh.hapi.fhir:hapi-fhir-jpaserver-base:5.4.0
+
+<!-- https://mvnrepository.com/artifact/ca.uhn.hapi.fhir/hapi-fhir-base -->
+<dependency>
+    <groupId>ca.uhn.hapi.fhir</groupId>
+    <artifactId>hapi-fhir-base</artifactId>
+    <version>5.4.0</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/ca.uhn.hapi.fhir/hapi-fhir-structures-r4 -->
+<dependency>
+    <groupId>ca.uhn.hapi.fhir</groupId>
+    <artifactId>hapi-fhir-structures-r4</artifactId>
+    <version>5.4.0</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base -->
+<dependency>
+    <groupId>ca.uhn.hapi.fhir</groupId>
+    <artifactId>hapi-fhir-jpaserver-base</artifactId>
+    <version>5.4.0</version>
+</dependency>
+
+
+ <!-- https://mvnrepository.com/artifact/ca.uhn.hapi.fhir/hapi-fhir-base -->
+        <dependency>
+            <groupId>ca.uhn.hapi.fhir</groupId>
+            <artifactId>hapi-fhir-base</artifactId>
+            <version>5.4.0</version>
+        </dependency>
